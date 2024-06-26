@@ -1,0 +1,61 @@
+- sach: 
+	+ ma sach
+	+ ten sach
+	+ ten tac gia
+	+ nam xuat ban
+	+ gia nhap
+	+ gia goc
+	+ gia ban
+	+ so luong
+	+ the loai
+	+ ngon ngu
+	+ mo ta
+
+- tac gia:
+	+ ma sach
+	+ ho va ten
+	+ ngay sinh
+	+ tieu su
+	
+- the loai:
+	+ ma the loai
+	+ ten the loai
+	
+- khach hang:
+	+ ma khach hang
+	+ ten dang nhap
+	+ mat khau
+	+ ho va ten
+	+ gioi tinh
+	+ dia chi
+	+ dia chi nhan hang
+	+ dia chi mua hang
+	+ ngay sinh
+	+ so dien thoai
+	+ email
+	+ dang ky nhan ban tin email
+	
+- don hang:
+	+ ma don hang
+	+ khach hang
+	+ dia chi mua hang
+	+ dia chi nhan hang
+	+ trang thai: moi tao, dang xu ly, dang giao hang, da giao thanh cong, tra hang,...
+	+ phuong thuc thanh toan
+	+ trang thai thanh toan
+	+ so tien da thanh toan
+	+ so tien con thieu
+	+ ngay dat hang
+	+ ngay giao hang
+
+- chi tiet don hang:
+	+ ma chi tiet don hang
+	+ don hang
+	+ ma sach
+	+ so luong
+	+ gia bia
+	+ giam gia
+	+ gia ban
+	+ thue VAT
+	+ tong tien
+	
